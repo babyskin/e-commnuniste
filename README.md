@@ -15,6 +15,29 @@ Présenté lors d'un RUMP à la GEEK'S NIGHT 2025 :)
 
 ---
 
+## Créer sa Plateforme de Streaming Cinéma
+
+### Stack complète
+
+- **[Jellyfin](https://github.com/jellyfin/jellyfin)** - Serveur de streaming multimédia (alternative à Plex)
+- **[Jellyseerr](https://github.com/Fallenbagel/jellyseerr)** - Interface de requêtes de films/séries
+- **[Radarr](https://github.com/Radarr/Radarr)** - Gestionnaire automatique de films
+- **[Prowlarr](https://github.com/Prowlarr/Prowlarr)** - Gestionnaire d'indexeurs pour Radarr/Sonarr
+- **[qBittorrent](https://github.com/qbittorrent/qBittorrent)** - Client torrent
+- **[Gluetun](https://github.com/qdm12/gluetun)** - Client VPN pour pas qu'ils viennent sonner chez toi à 6h
+- **[FlareSolverr](https://github.com/FlareSolverr/FlareSolverr)** - Proxy pour contourner Cloudflare
+- **[JOAL](https://github.com/anthonyraymond/joal)** - Outil pour optimiser le ratio sur les trackers
+
+### Architecture
+
+```
+Jellyseerr (Requêtes) → Radarr (Gestion) → Prowlarr (Indexeurs) 
+                                              ↓
+                                    qBittorrent + Gluetun (VPN)
+                                              ↓
+                                    Jellyfin (Lecture)
+```
+
 ## Accès aux Livres
 
 - **[Anna's Archive](https://annas-archive.org/)** - Bibliothèque numérique gratuite
@@ -27,3 +50,4 @@ Présenté lors d'un RUMP à la GEEK'S NIGHT 2025 :)
 
 - **[HelloAsso - Catégorie Cinéma](https://www.helloasso.com/e/cat/cinema)** - Soutenez des associations cinématographiques
 - **[Librairies Indépendantes](https://www.librairiesindependantes.com)** - Trouvez des librairies de proximité
+
