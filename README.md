@@ -13,7 +13,6 @@ Présenté lors d'un RUMP à la GEEK'S NIGHT 2025 :)
 - **[Streamrip](https://github.com/nathom/streamrip)** - Outil pour fetch tes musiques fav
 - **[Tempo](https://github.com/CappielloAntonio/tempo/releases)** - Client mobile Android pour Navidrome
 
----
 
 ## Créer sa Plateforme de Streaming Cinéma
 
@@ -42,8 +41,6 @@ Jellyseerr (Requêtes) → Radarr (Gestion) → Prowlarr (Indexeurs)
 
 - **[Anna's Archive](https://annas-archive.org/)** - Bibliothèque numérique gratuite
 - **[Z-Library](https://singlelogin.re/)** - Accès à des millions de livres
-
----
 
 
 ## Soutenir les indépendant
