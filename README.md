@@ -48,3 +48,8 @@ Jellyseerr (Requêtes) → Radarr (Gestion) → Prowlarr (Indexeurs)
 - **[HelloAsso - Catégorie Cinéma](https://www.helloasso.com/e/cat/cinema)** - Soutenez des associations cinématographiques
 - **[Librairies Indépendantes](https://www.librairiesindependantes.com)** - Trouvez des librairies de proximité
 
+## Précision
+
+**Le manque d’objectivité apparent sur les slides s’explique par une dénonciation contextualisée, fondée sur des faits observables et actuels**, et non par une volonté idéologique de valoriser un système qui, historiquement ou aujourd’hui, peut également négliger une partie de la population.
+
+Le terme **« e-communiste »** est utilisé ici comme **un néologisme, désignant le partage, la mutualisation et l’accessibilité des ressources sur Internet, indépendamment de toute doctrine politique traditionnelle.**
